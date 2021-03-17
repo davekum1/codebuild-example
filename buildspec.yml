@@ -1,4 +1,4 @@
-#comment
+#buildspecs for codebuild
 version: 0.2
 
 phases:
